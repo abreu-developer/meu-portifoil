@@ -1,0 +1,2 @@
+Coloque nesta pasta as telas e imagens do projeto Em Pauta.
+A capa usada no site deve se chamar capa.jpg.
